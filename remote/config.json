@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "version": 1,
+  "minAppVersion": "1.0.0",
+  "updateUrl": "",
+  "adPolicy": {
+    "every": 3,
+    "dailyCap": 12
+  },
+  "economy": {
+    "coinRate": 0.4,
+    "dailyRewards": [
+      10,
+      15,
+      20,
+      25,
+      35,
+      50,
+      80
+    ],
+    "wheelPrizes": [
+      10,
+      25,
+      15,
+      50,
+      20,
+      100,
+      30,
+      300
+    ],
+    "wheelWeights": [
+      20,
+      14,
+      18,
+      7,
+      16,
+      3,
+      12,
+      1
+    ],
+    "expertStrength": 1
+  },
+  "events": [],
+  "announcements": [],
+  "catalog": {
+    "order": [],
+    "hidden": [],
+    "badges": {}
+  },
+  "games": [],
+  "publishedAt": "2026-11-17T20:40:07.473Z"
+}
